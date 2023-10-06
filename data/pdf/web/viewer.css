@@ -13,9 +13,6 @@
  * limitations under the License.
  */
 
-#toolbarViewer #print-path {fill: red !important;}
-#toolbarViewer #print {color: red !important;}
-
 :root {
   --highlight-bg-color: rgba(180, 0, 170, 1);
   --highlight-selected-bg-color: rgba(0, 100, 0, 1);

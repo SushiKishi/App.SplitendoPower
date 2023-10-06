@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"php.debug.executablePath": "E:\\Apps\\xampp\\php\\php.exe",
+		"php.validate.executablePath": "E:\\Apps\\xampp\\php\\php.exe",
+		"php.validate.enable": true
+	}
+}
